@@ -19,6 +19,7 @@ public class BancoInteres {
     public static void main(String[] args) {
         // Declarar
         double md, interes=0, inte=0, total;
+        int claro;
         int cm;
         String dolar;
         Scanner teclado = new Scanner(System.in);
